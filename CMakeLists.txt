@@ -3,5 +3,5 @@ project(untitled C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(untitled 17094.c
-        1001.c)
+add_executable(untitled
+        13717.c)
